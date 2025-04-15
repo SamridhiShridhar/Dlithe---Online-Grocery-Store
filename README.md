@@ -8,3 +8,6 @@
 
 # Link for Use Case Document
 # https://docs.google.com/document/d/1AvjRSvbQ5e4oHky2d334C-SdJMd26F2P3bQYR6r4HmQ/edit?usp=sharing
+
+# Link for Use Case Diagrams
+# https://drive.google.com/file/d/1X2JTnSSEPg9ODBNccn67r63WSNZphT4a/view?usp=sharing
