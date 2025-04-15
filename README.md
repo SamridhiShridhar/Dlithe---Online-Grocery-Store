@@ -1,7 +1,7 @@
 # Dlithe---Online-Grocery-Store
 
 # Link for Database Design
-# 
+# https://drawsql.app/teams/no-826/diagrams/grocery-store
 
 # Link for Figma Website Design draft
 # https://www.figma.com/design/5wY8nEDMY2JxIRGeYCu8dc/Untitled?node-id=0-1&t=epRCIJJtmouREc6s-1
